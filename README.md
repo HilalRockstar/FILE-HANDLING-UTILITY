@@ -32,3 +32,8 @@ The project is built entirely with Java's standard libraries, without requiring 
 
 By completing this project, students and beginners can gain hands-on experience in file handling, which is a fundamental concept in programming. This project can also be expanded further by integrating MySQL databases, encryption mechanisms, or GUI interfaces in the future. Overall, this project serves as an excellent starting point for understanding file manipulation in Java while following industry-standard coding practices.
 
+#OUTPUT 
+//WRITE THE FILE//
+
+
+
