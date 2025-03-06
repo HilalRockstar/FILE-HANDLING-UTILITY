@@ -35,10 +35,16 @@ By completing this project, students and beginners can gain hands-on experience 
 #OUTPUT 
 
 Write a File
-https://github.com/HilalRockstar/FILE-HANDLING-UTILITY/issues/2#issue-2900853657
+
 
 Read a File
 
+![Image](https://github.com/user-attachments/assets/062548a5-f0ad-4a14-8158-c7426ebb0933)
+
+Modify a File 
+
+
+After Modify the File again We read it
 
 
 
