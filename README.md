@@ -35,6 +35,9 @@ By completing this project, students and beginners can gain hands-on experience 
 #OUTPUT 
 
 Write a File
+https://github.com/HilalRockstar/FILE-HANDLING-UTILITY/issues/2#issue-2900853657
+
+Read a File
 
 
 
