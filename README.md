@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 File Operations in Java using IntelliJ
+
 Project Description
 
 This project demonstrates essential file handling operations using Java on the IntelliJ IDEA platform. File operations play a crucial role in software development, especially when data needs to be stored, retrieved, or modified without relying on databases. The objective of this project is to perform reading, writing, and modifying text files using Java's built-in libraries. The entire project is developed in IntelliJ, making use of object-oriented programming concepts to enhance code structure, reusability, and maintainability.
