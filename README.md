@@ -35,6 +35,7 @@ By completing this project, students and beginners can gain hands-on experience 
 #OUTPUT 
 
 Write a File
+![Image](https://github.com/user-attachments/assets/1bde88ee-3845-4d90-b8f5-032f7ba5e899)
 
 
 Read a File
